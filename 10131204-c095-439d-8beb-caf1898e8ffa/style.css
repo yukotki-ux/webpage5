@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family: impact;
+  color: #402500;
+  background-color: #34e4db;
+}
+
+/* The code below modifies all the content within the <h1> tags */
+
+h1 {
+  font-family: Impact;
+  color: #e1e2e2;
+}
+h3 {
+  font-family: Impact;
+  color: black;
+}
+h4 {
+  font-family: fantasy;
+  color: black;
+}
+div {
+  text-align: left;
+  font-family: sans-selif;
+  color: black;
+}
+p {
+  font-family: Gill Sans;
+  border-top-style: dotted;
+  border-right-style: dotted;
+  border-bottom-style: dotted;
+  border-left-style: dotted;
+}
